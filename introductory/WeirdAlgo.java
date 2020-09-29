@@ -1,5 +1,6 @@
-import java.util.Scanner;
+package introductory;
 
+import java.util.Scanner;
 public class WeirdAlgo{
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
